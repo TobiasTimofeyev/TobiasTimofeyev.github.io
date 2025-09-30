@@ -19,7 +19,8 @@ authors:
   - Daniel Koizumi
   - Karuna Petwe
   - Tobias Timofeyev
-# links:
+links:
+  Paper: https://doi.org/10.1109/AERO63441.2025.11068754
   # Code: https://github.com/TobiasTimofeyev/Spectral_Kuramoto
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

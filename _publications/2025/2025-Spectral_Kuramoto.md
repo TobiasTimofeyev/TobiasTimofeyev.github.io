@@ -15,6 +15,7 @@ authors:
   - Tobias Timofeyev
   - Alice Patania
 links:
+  Paper: https://doi.org/10.1063/5.0280142
   Code: https://github.com/TobiasTimofeyev/Spectral_Kuramoto
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
