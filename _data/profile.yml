@@ -1,9 +1,9 @@
-primary_name: "Your Name"
+primary_name: "Tobias Timofeyev"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Tobias Timofeyev"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/towerlogo2C.jpg  # Logo is optional
   name: Position 1 with logo
 - name: Position 2 without logo
 
