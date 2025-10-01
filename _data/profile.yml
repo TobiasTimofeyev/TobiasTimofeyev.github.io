@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Tobias Timofeyev"
 
 positions:
-- logo: /assets/images/badges/towerlogo2C.jpg  # Logo is optional
+- logo: /assets/images/badges/UVM_Shield_G.png  # Logo is optional
   # name: Position 1 with logo
 # - name: Position 2 without logo
 
@@ -33,13 +33,13 @@ portrait_url: /assets/images/photos/My_portrait.jpg
 
 education:
 - name: University of Vermont
-  logo: /assets/images/badges/towerlogo2C.jpg
+  logo: /assets/images/badges/UVM_Shield_G.png
   position: >- 
     Department of Mathematics and Statistics <br/>
     Ph.D. Student
   date: Sep. 2021- present
 - name: Bard College
-  logo: /assets/images/badges/Bard_College_Logo-scaled.jpg
+  logo: /assets/images/badges/BARD.png
   position: B.A. in Mathematics
   date: Aug. 2017 - May. 2021
 
